@@ -1,0 +1,2 @@
+This is a project I started to process some audio files. I really loved some old nepali songs, which sadly had some weired noise from recording studio or because of the old recording devices. I applied my skills and
+knowledge in python to reduce those noise and obtain a clean music.
